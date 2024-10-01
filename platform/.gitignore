@@ -1,0 +1,6 @@
+.idea
+db.sqlite3
+.DS_Store
+**/venv/
+media/
+**/__pycache__/
